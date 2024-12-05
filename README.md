@@ -13,3 +13,7 @@
 3. Abstraction: Modules hide the complexity of the resources and configurations inside, making it easier to manage and understand your infrastructure.
 4. Organization: Modules help keep your code tidy by grouping related resources and configurations into a single unit.
 5. Security and Compliance: Modules can encapsulate security and compliance practices.
+
+
+
+Reference: Abhishek Veermalla
